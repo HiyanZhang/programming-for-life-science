@@ -1,1 +1,2 @@
-# programming-for-life-science
+## programming-for-life-science
+### practise for Git and GitHub
